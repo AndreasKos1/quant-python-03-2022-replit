@@ -1,4 +1,4 @@
-import requests
+pyimport requests
 
 URL = "https://ndownloader.figshare.com/files/10717177"
 
